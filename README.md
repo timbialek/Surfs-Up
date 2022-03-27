@@ -8,7 +8,7 @@ The investor, W. Avy, wants more information about temperature trends before ope
 After creating and running the datasets for the June and December data the below images are the results:
 
 
-![](https://github.com/timbialek/Surfs_Up/blob/main/Resources/june_temperatures.PNG)  ![](https://github.com/timbialek/Surfs_Up/blob/main/Resources/dec_temperatures.PNG)
+![](https://github.com/timbialek/Surfs-Up/blob/main/Resources/june_temperatures.PNG)  ![](https://github.com/timbialek/Surfs-Up/blob/main/Resources/dec_temperatures.PNG)
 
 *  The minimum temperature for June was 64° and the min for December was 56° which is an 8° difference between the midpoints of the year
 
